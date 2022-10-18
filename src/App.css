@@ -1,0 +1,17 @@
+* {
+  background-color: lightslategray;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.container {
+  background-color: beige;
+  font-size: 2rem;
+}
+
